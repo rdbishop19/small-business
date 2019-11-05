@@ -1,0 +1,50 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "name": "Bilbo Loggins",
+            "departmentId": 1,
+            "computerId": 1
+        },
+        {
+            "id": 2,
+            "name": "Steve Frownlee",
+            "departmentId": 2,
+            "computerId": 3
+        },
+        {
+            "id": 3,
+            "name": "Every Rose'has'its'thorns'aloha",
+            "departmentId": 3,
+            "computerId": 2
+        }
+    ],
+    "departments": [
+        {
+            "id": 1,
+            "name": "Hobbit Resources"
+        },
+        {
+            "id": 2,
+            "name": "Abyss of Despair"
+        },
+        {
+            "id": 3,
+            "name": "Emotional Support"
+        }
+    ],
+    "computers": [
+        {
+            "id": 1,
+            "name": "Lenovo X1 Carbon"
+        },
+        {
+            "id": 2,
+            "name": "Macbook Air Pro"
+        },
+        {
+            "id": 3,
+            "name": "Dell XPS 13"
+        }
+    ]
+}
